@@ -11,3 +11,6 @@
 
 ## Single Source of Truth
 Усі функціональні вимоги описуються виключно в SSD. Інші документи (SDD, тестування) використовують ідентифікатори вимог з SSD.
+
+## Live Documentation
+https://vadim1108nds.github.io/LB8document/
