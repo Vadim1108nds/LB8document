@@ -1,0 +1,27 @@
+site_name: Order Management Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: README.md
+
+  - Architecture:
+      - System Specification (SSD): architecture/SSD.md
+      - Software Design (SDD): architecture/SDD.md
+      - Infrastructure (ISD): architecture/ISD.md
+
+  - Quality:
+      - Test Strategy: quality/test-strategy.md
+      - Traceability Matrix: quality/traceability-matrix.md
+
+  - Developer:
+      - Onboarding Guide: developer/onboarding.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+
+repo_name: documentation-project
